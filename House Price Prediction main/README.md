@@ -23,6 +23,7 @@ A machine learning project for predicting house prices using the Kaggle House Pr
 - No feature scaling for tree-based models
 - Filled remaining missing values with `0` before model training
 
+
 ### Feature Engineering
 Created new features such as:
 
@@ -42,6 +43,7 @@ Created new features such as:
 - HasPool
 - Quality_x_Area
 - Quality_x_TotalSF
+
 
 ## Models Evaluated
 
